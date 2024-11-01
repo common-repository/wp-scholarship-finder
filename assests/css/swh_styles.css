@@ -1,0 +1,4 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:400,600,700';
+#recentpost_spec_li li::before {content: "▶";font-size: 10px;vertical-align: super;}
+
+
